@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<script type="text/javascript" src="../js/jquery.min.js"></script>
-<script type="text/javascript" src="../js/jquery.easyui.min.js"></script>
-<script type="text/javascript" src="../js/client.min.js"></script>
+<script type="text/javascript" src=".js/jquery.min.js"></script>
+<script type="text/javascript" src=".js/jquery.easyui.min.js"></script>
+<script type="text/javascript" src=".js/client.min.js"></script>
 <title>SysInfo</title>
 </head>
 <body>
